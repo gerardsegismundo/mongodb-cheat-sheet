@@ -11,10 +11,10 @@
 
 # Commands
 
-## mongo --shell
+## Opens Mongo shell
 
 ```
-opens mongo shell
+mongo --shell
 ```
 
 ## Show All Databases
