@@ -11,7 +11,7 @@
 
 # Commands
 
-## Open Mongo shell
+## mongo --shell
 
 ```
 opens mongo shell
