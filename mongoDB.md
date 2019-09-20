@@ -1,20 +1,20 @@
 # MongoDB
 
+- is an open source database management system (DBMS) that uses a document-oriented database model which supports various forms of data
 - Non Relational Database
 - Stores data in collection of documents
 
 ## BSON
 
-- documents
-- similar to JSON with added data types
-- Binary JSON
+- is a computer data interchange format. The name "BSON" is based on the term JSON and stands for **Binary JSON**..
+- Similar to JSON with added data types
 
-# commands
+# Commands
 
 ## Open Mongo shell
 
 ```
-open mongo shell
+opens mongo shell
 ```
 
 ## Show All Databases
